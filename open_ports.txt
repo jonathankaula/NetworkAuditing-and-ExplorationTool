@@ -1,0 +1,5 @@
+PORT     STATE SERVICE        VERSION
+22/tcp   open  ssh            MikroTik RouterOS sshd (protocol 2.0)
+53/tcp   open  domain         (generic dns response: NOTIMP)
+2000/tcp open  bandwidth-test MikroTik bandwidth-test server
+Service Info: OS: Linux; Device: router; CPE: cpe:/o:mikrotik:routeros
